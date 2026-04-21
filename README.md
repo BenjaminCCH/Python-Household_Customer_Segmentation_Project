@@ -22,5 +22,8 @@ Retrieved from: https://github.com/Lanbig/CSC465-visualization-project/blob/mast
 
 If you download the cleaned dataset (`customer_segmentation_after_preprocessing.csv`) from the `clean dataset` folder, you only need to run script 4.
 
+## Conclusion
+After testing 35 models, K-Means clustering applied to RFM variables (Model 1) and demographic variables (Model 7) produced the most meaningful results, each identifying 4 distinct customer segments. Both models were chosen based on their strong validation scores, balanced cluster distribution, and business interpretability, offering useful insights that can inform targeted marketing strategies depending on business objectives.
+
 ## Report
 A complete PDF version of the report can also be viewed directly: Household Customer Segmentation Report.pdf
